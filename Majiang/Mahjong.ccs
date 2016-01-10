@@ -1,0 +1,134 @@
+<Solution>
+  <PropertyGroup Name="Mahjong" Version="2.2.5.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Folder Name="login_in">
+          <Image Name="login_bg.png" />
+          <Image Name="qq_login_normal.png" />
+          <Image Name="qq_login_selected.png" />
+          <Image Name="youke_login_normal.png" />
+          <Image Name="youke_login_selected.png" />
+          <Image Name="headico1.png" />
+        </Folder>
+        <Project Name="LoginScene.csd" Type="Scene" />
+        <Folder Name="SelectEntry">
+          <Image Name="Diamond.png" />
+          <Image Name="gold.png" />
+          <Image Name="plus_normal.png" />
+          <Image Name="plus_selected.png" />
+          <Image Name="QQlogo.png" />
+          <Image Name="QQlogo_1.png" />
+          <Image Name="back.png" />
+        </Folder>
+        <Folder Name="majiang_res">
+          <Image Name="0.png" />
+          <Image Name="1.png" />
+          <Image Name="2.png" />
+          <Image Name="3.png" />
+          <Image Name="4.png" />
+          <Image Name="5.png" />
+          <Image Name="6.png" />
+          <Image Name="7.png" />
+          <Image Name="8.png" />
+          <Image Name="9.png" />
+          <Image Name="addfriend.png" />
+          <Image Name="caifu1.png" />
+          <Image Name="caifu2.png" />
+          <Image Name="entry_bg.png" />
+          <Image Name="huodong1.png" />
+          <Image Name="huodong2.png" />
+          <Image Name="jifen1.png" />
+          <Image Name="jifen2.png" />
+          <Image Name="list_bg.png" />
+          <Image Name="majiang3_0.png" />
+          <Image Name="majiang3_1.png" />
+          <Image Name="majiang4.png" />
+          <Image Name="majiang4_1.png" />
+          <Image Name="majiangbtn1_0.png" />
+          <Image Name="majiangbtn1_1.png" />
+          <Image Name="majiangbtn2_0.png" />
+          <Image Name="majiangbtn2_1.png" />
+          <Image Name="message1.png" />
+          <Image Name="message2.png" />
+          <Image Name="mission1.png" />
+          <Image Name="mission2.png" />
+          <Image Name="playerstatus.png" />
+          <Image Name="rank1.png" />
+          <Image Name="rank2.png" />
+          <Image Name="rankico.png" />
+          <Image Name="set1.png" />
+          <Image Name="set2.png" />
+          <Image Name="016.png" />
+          <Image Name="016_1.png" />
+          <Image Name="icon.png" />
+          <Image Name="close_normal.png" />
+          <Image Name="close_select.png" />
+          <File Name="fangzheng.ttf" />
+          <Image Name="userinfo_bg.png" />
+          <TTF Name="consolaz.ttf" />
+          <TTF Name="jianti.ttf" />
+        </Folder>
+        <Project Name="PlayerStatus.csd" Type="Node" />
+        <Project Name="UserInfo.csd" Type="Node" />
+        <Project Name="SelectEntryScene.csd" Type="Scene" />
+        <Project Name="PlayerInfo.csd" Type="Node" />
+        <Project Name="LevelScene.csd" Type="Scene" />
+        <Project Name="StateLayer.csd" Type="Layer" />
+        <File Name="static_data.plist" />
+        <Folder Name="LevelScene">
+          <Image Name="Level_bg.png" />
+          <Image Name="level1_0.png" />
+          <Image Name="level1_1.png" />
+          <Image Name="level2_0.png" />
+          <Image Name="level2_1.png" />
+          <Image Name="level3_0.png" />
+          <Image Name="level3_1.png" />
+          <Image Name="level4_0.png" />
+          <Image Name="level4_1.png" />
+          <Image Name="start_0.png" />
+          <Image Name="start_1.png" />
+        </Folder>
+        <Folder Name="Mall_Res">
+          <Image Name="bean1.png" />
+          <Image Name="bean2.png" />
+          <Image Name="bean3.png" />
+          <Image Name="bean4.png" />
+          <Image Name="bean_18.5_bg1.png" />
+          <Image Name="bean_18.5_bg2.png" />
+          <Image Name="bean_38_bg1.png" />
+          <Image Name="bean_38_bg2.png" />
+          <Image Name="bean_65_bg1.png" />
+          <Image Name="bean_65_bg2.png" />
+          <Image Name="bean_6_bg1.png" />
+          <Image Name="bean_6_bg2.png" />
+          <Image Name="bean_title_1.png" />
+          <Image Name="bean_title_2.png" />
+          <Image Name="diamond1.png" />
+          <Image Name="diamond2.png" />
+          <Image Name="diamond_210_bg1.png" />
+          <Image Name="diamond_210_bg2.png" />
+          <Image Name="diamond_320_bg1.png" />
+          <Image Name="diamond_320_bg2.png" />
+          <Image Name="diamond_60_bg1.png" />
+          <Image Name="diamond_60_bg2.png" />
+          <Image Name="diamond_650_bg1.png" />
+          <Image Name="diamond_650_bg2.png" />
+          <Image Name="diamond_pack.png" />
+          <Image Name="diamond_title_1.png" />
+          <Image Name="diamond_title_2.png" />
+          <Image Name="dianmond3.png" />
+          <Image Name="mall_bg.png" />
+          <Image Name="pay_menu_1.png" />
+          <Image Name="pay_menu_2.png" />
+          <Image Name="twist.png" />
+        </Folder>
+        <Project Name="Mall_Bean_Layer.csd" Type="Layer" />
+        <Project Name="Mall_Diamond_Layer.csd" Type="Layer" />
+        <Project Name="Mall_Lable_Layer.csd" Type="Layer" />
+        <Project Name="Mall_Scene.csd" Type="Scene" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

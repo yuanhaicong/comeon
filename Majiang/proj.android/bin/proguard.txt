@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:55
+-keep class com.tencent.connect.common.AssistActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:43
+-keep class com.tencent.tauth.AuthActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:32
+-keep class org.cocos2dx.cpp.AppActivity { <init>(...); }
+
